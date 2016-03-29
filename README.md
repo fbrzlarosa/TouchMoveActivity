@@ -3,6 +3,9 @@
 With Touch Move Activity you can open Activity with anything layout and close with a simple Swipe Down/Up,
 like Facebook App for Android
 
+![Alt Text](https://github.com/fbrzlarosa/TouchMoveActivity/blob/master/example.gif)
+
+
 ##Usage
 ####Declare TouchMoveActivity in your Manifest, with its Theme.
 ```xml
